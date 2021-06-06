@@ -259,6 +259,6 @@ engine = pyttsx3.init()
 
 while(1):
     voice_data = record_audio("hearing") # get the voice input
-    print("Done")
+    print("Done")  
     print("Q:", voice_data)
     respond(voice_data) # respond
