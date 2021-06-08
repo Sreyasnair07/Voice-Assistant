@@ -262,3 +262,35 @@ while(1):
     print("Done")  
     print("Q:", voice_data)
     respond(voice_data) # respond
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
